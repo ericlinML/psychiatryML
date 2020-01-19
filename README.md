@@ -6,4 +6,4 @@ Please feel free to contact with me any questions at eric.lin@yale.edu
 
 My LinkedIn site: https://www.linkedin.com/in/ericlinmd/
 
-![](images/LinkedInQR.svg?raw=true)
+![](images/LinkedInQR.svg)
